@@ -4,7 +4,9 @@ Control your server from Whatsapp
 # What it does?
 
 It allows you to control a server or a group of servers using whatsapp. The script is installed on the server and runs in the background. There are two ways of controlling the server:
-1. send a command to be executed on the server through ```/exec command```, example: sending ```/exec ls -tr``` will execute the  ```ls -tr``` on the server and return the results as a message on whatsapp
+
+1. send a command to be executed on the server through ```/exec command```, example: sending ```/exec ls -tr``` will execute the  ```ls -tr``` on the server and return the results as a message on whatsapp.
+
 ![Example](http://i.imgur.com/pbuYCwO.jpg?1) 
 
 2. predefining a python function to invoke on the server
