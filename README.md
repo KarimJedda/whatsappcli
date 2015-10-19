@@ -1,10 +1,10 @@
 # whatsappcli
 Control your server from Whatsapp
 
+# What it does?
 
 
-
-Heavily inspired by @joaoricardo000's work - https://github.com/joaoricardo000/whatsapp-bot-seed
+Heavily inspired by joaoricardo000's work - https://github.com/joaoricardo000/whatsapp-bot-seed
 
 # Installation
 1. Install the image handling system dependencies on ```bash opt/system-requirements.sh```
